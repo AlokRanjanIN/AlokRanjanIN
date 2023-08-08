@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlokRanjan
-- 👀 I’m interested in Data Analtyics
+- 👀 I’m interested in Data Analytics
 - 📫 How to reach me "ranjanalok1in@gmail.com"
 
 <!---
