@@ -1,7 +1,7 @@
 
 
 
-👋 Greetings,
+👋 Hi,
 
 I'm AlokRanjan, and my passion resides in the world of Data Analytics. With a knack for unraveling complex data puzzles, I'm here to turn raw information into captivating insights.
 
