@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlokRanjan
+- 👋 Hi, I’m AlokRanjan
 - 👀 I’m interested in Data Analytics
 - 📫 How to reach me "ranjanalok1in@gmail.com"
 
