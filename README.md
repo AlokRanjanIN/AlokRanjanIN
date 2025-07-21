@@ -6,7 +6,7 @@ My name is Alok, and I'm a Data Scientist with a passion for unraveling complex 
 
 📊 Whether it's analyzing trends, building predictive models, or creating data visualizations, I'm here to help businesses make informed decisions and uncover valuable insights from their data.
 
-📬 Feel free to reach out to me via [Gmail](mailto:ranjanalok1in@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/alokranjan-in/) to discuss the fascinating world of data analytics or explore potential collaborations.
+📬 Feel free to reach out to me via or connect on [LinkedIn](https://www.linkedin.com/in/alokranjan-in/) to discuss the fascinating world of data analytics or explore potential collaborations.
 
 Let's dive into the realm of data-driven possibilities together!
 
